@@ -1,0 +1,8 @@
+#!/bin/bash
+
+Source-dir = $1
+
+backup-dir=12
+
+cp-r"& source dir" "& backup-dir"
+
